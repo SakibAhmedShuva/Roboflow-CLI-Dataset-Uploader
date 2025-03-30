@@ -15,18 +15,9 @@ This repository contains a script to help you:
 - Google Colab (recommended) or Jupyter Notebook environment
 - Roboflow account (free signup at [roboflow.com](https://roboflow.com))
 
-## Installation
-
-Clone this repository:
-
-```bash
-git clone https://github.com/SakibAhmedShuva/roboflow-cli-uploader.git
-cd roboflow-cli-uploader
-```
-
 ## Usage
 
-The notebook contains three main steps:
+Three main steps:
 
 ### 1. Install Roboflow CLI
 
@@ -71,8 +62,4 @@ Check the [official Roboflow documentation](https://docs.roboflow.com/cli) for m
 
 ## License
 
-MIT
-
-## Author
-
-[SakibAhmedShuva](https://github.com/SakibAhmedShuva)
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
